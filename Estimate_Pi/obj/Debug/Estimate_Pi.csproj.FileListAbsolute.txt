@@ -1,0 +1,6 @@
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\bin\Debug\Estimate_Pi.exe.config
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\bin\Debug\Estimate_Pi.exe
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\bin\Debug\Estimate_Pi.pdb
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\obj\Debug\Estimate_Pi.csprojAssemblyReference.cache
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\obj\Debug\Estimate_Pi.exe
+E:\GitHub\Новая папка\Estimate_Pi\Estimate_Pi\obj\Debug\Estimate_Pi.pdb
